@@ -82,7 +82,7 @@ Give warning once hazard is detected.
 
 ![Figure_17](/image/Figure_17.png)
 
-Yolov3 is well explained in this flowchart.
+Yolov3 is well explained in this flowchart. source from CSDN. Great thanks to the author. https://blog.csdn.net/leviopku/article/details/82660381
 
 ![Yolov3_Structure](/image/Yolov3_Structure.png)
 
