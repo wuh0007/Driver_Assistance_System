@@ -86,5 +86,5 @@ Yolov3 is well explained in this flowchart. source from CSDN. Great thanks to th
 
 ![Yolov3_Structure](/image/Yolov3_Structure.png)
 
-when it comes to the output of Yolov3, for each image, in our project, Yolo will output a scale*scale*3*（5+1） = 18 vector. That means, for each grid in each scale, 3 bounding box will be output, and each bouding box contains the 5+1 = 6 metrics, which are x,y axis of center of bounding boxes, width and height of bounding boxes, objectiveness and class score of bounding boxes.
+When it comes to the output of Yolov3, for each image, in our project, Yolo will output a scale * scale*3*（5+1） = 18 vector. That means, for each grid in each scale, 3 bounding box will be output, and each bouding box contains the 5+1 = 6 metrics, which are x,y axis of center of bounding boxes, width and height of bounding boxes, objectiveness and class score of bounding boxes.
 
